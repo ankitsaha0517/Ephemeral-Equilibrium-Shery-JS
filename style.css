@@ -1,8 +1,13 @@
+@font-face {
+    font-family:'Nimbus Sans';
+    src: url(./font/NimbusSanL-Reg.otf) format('opentype');
+    font-weight: normal;
+}
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Nimbus Sans L";
+    font-family: "Nimbus Sans";
 }
 html,body{
     width: 100%;
